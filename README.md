@@ -1,2 +1,3 @@
 # Primo-Progetto-PROG-II
-Leggere prima il file pdf "Progetto Java".
+Read file pdf "Progetto Java".
+University of Pisa Computer Science.
